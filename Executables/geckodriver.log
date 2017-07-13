@@ -1,0 +1,822 @@
+1499329064867	geckodriver	INFO	Listening on 127.0.0.1:59083
+1499329065933	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499329067761	Marionette	INFO	Listening on port 59100
+1499329067809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499329068009	Marionette	DEBUG	loaded listener.js
+1499329068038	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-06 13:47:48.079 plugin-container[62853:677553] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-06 13:47:48.079 plugin-container[62853:677553] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499329069659	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499329069659	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake-stage.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499329076950	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499329076958	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499329076996	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499329077746	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499329077746	Marionette	DEBUG	Received DOM event "unload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499329087858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499329087864	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499329093809	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329104213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329105520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329105992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329106286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329116878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329127272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329133107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329136097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329136792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329137677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329139457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329140685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329151088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329166780	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329177170	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329178393	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329178676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329179000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329189332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329199628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329199905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329200178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329200456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329200730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329201014	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329201328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499329211656	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667073304	geckodriver	INFO	Listening on 127.0.0.1:54795
+1499667074355	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499667076147	Marionette	INFO	Listening on port 54804
+1499667076196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499667076394	Marionette	DEBUG	loaded listener.js
+1499667076421	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-10 11:41:16.462 plugin-container[43413:522406] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-10 11:41:16.463 plugin-container[43413:522406] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499667078474	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499667078474	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake-stage.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499667086372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667086377	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667086405	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667087152	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667087152	Marionette	DEBUG	Received DOM event "unload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667097257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499667097262	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499667103212	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667113673	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667114966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667115448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667115758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667139007	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1499667139036	Marionette	INFO	Ceased listening
+1499667162183	geckodriver	INFO	Listening on 127.0.0.1:55158
+1499667163191	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499667164820	Marionette	INFO	Listening on port 55167
+1499667164866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499667165062	Marionette	DEBUG	loaded listener.js
+1499667165094	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-10 11:42:45.138 plugin-container[43651:525007] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-10 11:42:45.139 plugin-container[43651:525007] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499667166823	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499667166823	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake-stage.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499667174196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667174201	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667174226	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667174981	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667174981	Marionette	DEBUG	Received DOM event "unload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499667181318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499667181324	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499667187223	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667197670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667198955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667199415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667199724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667210374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667220693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667220985	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667221262	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667221558	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667221836	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667222135	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667222452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667232785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667248486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667258892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667260151	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667260435	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667260765	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667271155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667281504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667287022	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667290887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667292385	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667292667	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667294251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667295289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499667305641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499836682356	geckodriver	INFO	Listening on 127.0.0.1:60215
+1499836683444	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499836685401	Marionette	INFO	Listening on port 60224
+1499836685475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499836685652	Marionette	DEBUG	loaded listener.js
+1499836685688	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 10:48:05.727 plugin-container[66442:2600640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 10:48:05.730 plugin-container[66442:2600640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499836687733	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499836687734	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake-stage.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499836694591	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499836694595	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499836694631	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499836695644	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499836695644	Marionette	DEBUG	Received DOM event "unload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499836700831	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499836700834	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499836809852	Marionette	INFO	Ceased listening
+1499836861537	geckodriver	INFO	Listening on 127.0.0.1:60414
+1499836862558	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499836864167	Marionette	INFO	Listening on port 60423
+1499836864224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499836864400	Marionette	DEBUG	loaded listener.js
+1499836864428	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 10:51:04.471 plugin-container[66471:2603103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 10:51:04.474 plugin-container[66471:2603103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499836866048	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499836866048	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499836872650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499836872655	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499836872682	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499836873355	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499836873355	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499836879846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499836879849	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499836918470	Marionette	INFO	Ceased listening
+1499836982702	geckodriver	INFO	Listening on 127.0.0.1:60575
+1499836983724	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499836985461	Marionette	INFO	Listening on port 60584
+1499836985511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499836985700	Marionette	DEBUG	loaded listener.js
+1499836985730	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 10:53:05.772 plugin-container[66494:2605326] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 10:53:05.775 plugin-container[66494:2605326] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499836987544	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499836987544	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499836994276	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499836994282	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499836994331	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499836995063	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499836995063	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837003904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499837003908	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499837026845	geckodriver	INFO	Listening on 127.0.0.1:60733
+1499837027863	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499837029579	Marionette	INFO	Listening on port 60742
+1499837029639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499837029836	Marionette	DEBUG	loaded listener.js
+1499837029872	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 10:53:49.905 plugin-container[66511:2606186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 10:53:49.905 plugin-container[66511:2606186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499837031767	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499837031767	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499837038654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837038660	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837038694	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837039388	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837039389	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837045485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499837045488	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499837678835	geckodriver	INFO	Listening on 127.0.0.1:61089
+1499837679849	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499837681606	Marionette	INFO	Listening on port 61098
+1499837681658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499837681856	Marionette	DEBUG	loaded listener.js
+1499837681894	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 11:04:41.924 plugin-container[67621:2621713] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 11:04:41.925 plugin-container[67621:2621713] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499837683681	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499837683682	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499837690442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837690447	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837690498	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837691247	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837691247	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499837703472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499837703475	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499837709430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499837719789	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837721105	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837721586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837722012	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837732674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837742980	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499837743274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837743569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837743854	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837744150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837744438	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837744748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837755117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837771059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837781450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837782746	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837783037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837783377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837793721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837804025	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837804314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837804600	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837804883	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837805164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837805452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837805789	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499837816157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-07-12 11:13:44.654 plugin-container[69033:2648154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 11:13:44.655 plugin-container[69033:2648154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/components/request-list-header.js, line 72: TypeError: this.refs.header is undefined
+1499838228171	Marionette	INFO	Ceased listening
+1499838231784	Marionette	INFO	Ceased listening
+1499839255747	geckodriver	INFO	Listening on 127.0.0.1:62427
+1499839256763	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499839258476	Marionette	INFO	Listening on port 62436
+1499839258542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499839258714	Marionette	DEBUG	loaded listener.js
+1499839258742	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 11:30:58.780 plugin-container[71788:2677541] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 11:30:58.781 plugin-container[71788:2677541] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499839260671	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499839260672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499839266723	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499839266727	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499839266752	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499839267435	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499839267436	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499839271366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499839271368	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499839277309	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839287681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839288989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839290230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839291482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839301876	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839312182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839313508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839314850	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839316174	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839317564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839317851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839318169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839322036	Marionette	DEBUG	loaded listener.js
+1499839328534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499839536046	Marionette	DEBUG	loaded listener.js
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://datalake-dev.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///modules/E10SUtils.jsm, line 103: TypeError: aURI is null
+1499839595374	Marionette	DEBUG	loaded listener.js
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499840531576	Marionette	INFO	Ceased listening
+1499840553490	geckodriver	INFO	Listening on 127.0.0.1:63461
+1499840554507	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499840556226	Marionette	INFO	Listening on port 63470
+1499840556290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499840556464	Marionette	DEBUG	loaded listener.js
+1499840556493	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 11:52:36.529 plugin-container[75186:2715479] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 11:52:36.530 plugin-container[75186:2715479] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499840558096	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499840558096	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499840565876	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840565880	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840565906	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840566602	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840566602	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840572024	Marionette	DEBUG	loaded listener.js
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499840583324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://datalake-dev.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499840594110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840596634	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840598991	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840601466	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840611872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840622218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource:///modules/E10SUtils.jsm, line 103: TypeError: aURI is null
+1499840622400	Marionette	DEBUG	loaded listener.js
+1499840623585	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840624915	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840626246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840627570	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840628906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840630270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840640860	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource:///modules/E10SUtils.jsm, line 103: TypeError: aURI is null
+1499840767632	Marionette	DEBUG	loaded listener.js
+1499840960583	geckodriver	INFO	Listening on 127.0.0.1:64233
+1499840961602	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499840963313	Marionette	INFO	Listening on port 64242
+1499840963369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499840963572	Marionette	DEBUG	loaded listener.js
+1499840963610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 11:59:23.643 plugin-container[76306:2727349] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 11:59:23.644 plugin-container[76306:2727349] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499840965526	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499840965527	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499840972162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840972168	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840972226	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840972919	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840972919	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499840976978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499840976981	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499840978223	Marionette	DEBUG	loaded listener.js
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499840983935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840994582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840997025	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499840998497	Marionette	DEBUG	loaded listener.js
+1499840999372	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841001731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://datalake-dev.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499841012198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841022515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841023859	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841025195	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841026521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841027849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841029179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841030538	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841040922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841051320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841052666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499841053669	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-07-12 12:02:42.190 plugin-container[76815:2733095] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 12:02:42.191 plugin-container[76815:2733095] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499841165515	Marionette	INFO	Ceased listening
+2017-07-12 12:02:46.548 plugin-container[76848:2733345] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 12:02:46.548 plugin-container[76848:2733345] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499841169650	Marionette	INFO	Ceased listening
+1499842137707	geckodriver	INFO	Listening on 127.0.0.1:65389
+1499842138720	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499842140457	Marionette	INFO	Listening on port 65400
+1499842140510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499842140697	Marionette	DEBUG	loaded listener.js
+1499842140725	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 12:19:00.770 plugin-container[79335:2760753] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 12:19:00.770 plugin-container[79335:2760753] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499842142657	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499842142658	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499842149289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499842149294	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499842149343	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499842150119	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499842150120	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499842158992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499842158995	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499842165037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842175397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842176714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842177679	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842178402	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842188802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842199116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842199440	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842199728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842200016	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842200302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842200584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842200885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499842211255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856099569	geckodriver	INFO	Listening on 127.0.0.1:55127
+1499856100611	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499856102330	Marionette	INFO	Listening on port 55146
+1499856102391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499856102566	Marionette	DEBUG	loaded listener.js
+1499856102593	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 16:11:42.632 plugin-container[6882:3057229] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 16:11:42.632 plugin-container[6882:3057229] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499856104475	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499856104476	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499856111642	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499856111648	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499856111677	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499856112376	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499856112376	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499856124180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499856124182	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499856130125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856140478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856141772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856142262	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856142678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856153323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856163628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856163924	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856164213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856164495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856164782	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856165081	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856165389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856175753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856191687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856202076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856203387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856203671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856204004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856214346	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856224646	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856224940	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856225224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856225510	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856225790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856226078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856226419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499856236761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859238575	geckodriver	INFO	Listening on 127.0.0.1:51349
+1499859239636	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499859241291	Marionette	INFO	Listening on port 51366
+1499859241338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499859241539	Marionette	DEBUG	loaded listener.js
+1499859241568	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 17:04:01.608 plugin-container[14036:3145793] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 17:04:01.609 plugin-container[14036:3145793] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499859243513	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499859243514	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499859250071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499859250076	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499859250100	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499859250809	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499859250809	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499859254619	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499859254622	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499859260532	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859270912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859272194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859272660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859273048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859283694	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859293995	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859294281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859294560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859294843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859295123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859295404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859295703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859306036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859321856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859332211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859333464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859333754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859334093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859344435	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859354740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859355034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859355318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859355608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859355892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859356182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859356521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499859366855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860679660	geckodriver	INFO	Listening on 127.0.0.1:57361
+1499860680685	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499860682337	Marionette	INFO	Listening on port 57374
+1499860682390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499860682587	Marionette	DEBUG	loaded listener.js
+1499860682616	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-12 17:28:02.653 plugin-container[17006:3182151] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-12 17:28:02.654 plugin-container[17006:3182151] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499860684513	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499860684514	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499860691181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499860691186	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499860691226	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499860691972	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499860691973	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499860695834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499860695837	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499860701792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860712178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860713466	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860713933	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860714324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860724971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860735270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860735552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860735833	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860736115	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860736396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860736678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860736974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860747298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860763146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860773503	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860774756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860775049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860775390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860785729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860796023	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860796308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860796591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860796881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860797162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860797452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860797788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499860808120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1499920992426	geckodriver	INFO	Listening on 127.0.0.1:50251
+1499920993483	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499920995545	Marionette	INFO	Listening on port 50270
+1499920995619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499920995823	Marionette	DEBUG	loaded listener.js
+1499920995863	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-13 10:13:15.904 plugin-container[55767:3729145] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-13 10:13:15.907 plugin-container[55767:3729145] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499920997636	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499920997637	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499921004279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921004287	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921004344	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921005164	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921005164	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921010589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499921010593	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499921016613	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921026970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921028200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921028683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921029090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921039720	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921050145	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921055624	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921058488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921059273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921060304	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921062089	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921063307	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921073702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921089647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921099998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921101454	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921101745	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921102098	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921112476	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921122821	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921129052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921132363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921134184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921134532	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921136285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921137468	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921147905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921772552	geckodriver	INFO	Listening on 127.0.0.1:55853
+1499921773582	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499921775476	Marionette	INFO	Listening on port 55862
+1499921775560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499921775737	Marionette	DEBUG	loaded listener.js
+1499921775766	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-13 10:26:15.808 plugin-container[56395:3741954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-13 10:26:15.808 plugin-container[56395:3741954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499921777675	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499921777676	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499921783989	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921783994	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921784026	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921784688	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921784689	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499921794723	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499921794725	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499921800722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921811086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921812413	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921812907	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921813346	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921824028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921834491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921840459	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921843689	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921844461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921845370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921847132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921848333	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921858801	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921874757	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921885137	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921886384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921886665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921887001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921897380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921907726	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921913543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921916495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921918376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921918657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921920416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921921500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499921931920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927037801	geckodriver	INFO	Listening on 127.0.0.1:61551
+1499927038833	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499927040942	Marionette	INFO	Listening on port 61560
+1499927041034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499927041289	Marionette	DEBUG	loaded listener.js
+1499927041342	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-13 11:54:01.432 plugin-container[69309:3898291] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-13 11:54:01.433 plugin-container[69309:3898291] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499927043286	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499927043287	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499927049717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499927049723	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499927049819	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499927050499	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499927050500	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499927058550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499927058556	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499927064822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927075242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927076805	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927077424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927077948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927088685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927099238	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927105770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927109425	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927110507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927111656	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927113944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927115600	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927126047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927142019	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927152374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927153902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927154188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927154531	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927164896	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927175285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927182521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927186434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927188914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927189224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927191540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927193017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499927203447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941419575	geckodriver	INFO	Listening on 127.0.0.1:63797
+1499941420612	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499941422475	Marionette	INFO	Listening on port 63810
+1499941422527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499941422739	Marionette	DEBUG	loaded listener.js
+1499941422775	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-13 15:53:42.806 plugin-container[79157:4014024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-13 15:53:42.807 plugin-container[79157:4014024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499941424659	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499941424660	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499941431527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499941431533	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499941431562	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499941432326	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499941432326	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499941442781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499941442786	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499941448780	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941459157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941460527	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941461039	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941461522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941472227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941482630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941488656	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941491887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941492616	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941493578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941495435	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941496647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941507087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941523072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941533428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941534803	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941535091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941535429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941545800	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941556150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941563020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941566592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941568500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941568810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941570595	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941572178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499941582596	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942409500	geckodriver	INFO	Listening on 127.0.0.1:54343
+1499942410532	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499942412293	Marionette	INFO	Listening on port 54358
+1499942412343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499942412617	Marionette	DEBUG	loaded listener.js
+1499942412648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-13 16:10:12.688 plugin-container[81699:4045544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-13 16:10:12.689 plugin-container[81699:4045544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa203, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499942414538	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499942414538	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499942421280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499942421284	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499942421351	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499942422160	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499942422161	Marionette	DEBUG	Received DOM event "unload" for "https://datalake.smartsense.hortonworks.com/viewer/#/welcome"
+1499942430786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499942430789	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake.smartsense.hortonworks.com/smartsearch/"
+1499942436823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942447253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942448678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942449695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942450414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942460925	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942471258	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942477507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942480989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942481844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942482551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942485406	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942485844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499942496333	Marionette	DEBUG	Canceled page load listener because no navigation has been detected

@@ -1,0 +1,309 @@
+1499245543294	geckodriver	INFO	Listening on 127.0.0.1:63431
+1499245544334	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499245546256	Marionette	INFO	Listening on port 63448
+1499245546360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499245546500	Marionette	DEBUG	loaded listener.js
+1499245546536	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-05 14:35:46.569 plugin-container[19139:185812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-05 14:35:46.570 plugin-container[19139:185812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499245548574	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499245548574	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake-stage.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499245555434	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499245555439	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499245555465	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499245556347	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499245556347	Marionette	DEBUG	Received DOM event "unload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499245563205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499245563210	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499245569128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245579634	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245580895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245581352	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245581652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245592141	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245602452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245602758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245603068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245603366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245603681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245603973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245604307	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245614621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245630271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245640652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245641935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245642219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245642572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245652894	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245663189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245663467	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245663746	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245664029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245664303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245664582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245664911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499245675227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246024759	geckodriver	INFO	Listening on 127.0.0.1:49779
+1499246025770	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499246027439	Marionette	INFO	Listening on port 49792
+1499246027540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499246027682	Marionette	DEBUG	loaded listener.js
+1499246027710	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-05 14:43:47.749 plugin-container[20325:198331] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-05 14:43:47.750 plugin-container[20325:198331] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499246029769	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499246029769	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake-stage.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499246036833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246036837	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246036870	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246037727	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246037727	Marionette	DEBUG	Received DOM event "unload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246042028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499246042034	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499246048000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246058431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246059770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246060229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246060543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246071104	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246081498	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246087116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246090016	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246090695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246091485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246093472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246094618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246104947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246120665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246131042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246132303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246132590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246132938	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246143294	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246153632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246159156	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246162038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246163591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246163885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246165441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246166416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246176816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246402110	geckodriver	INFO	Listening on 127.0.0.1:54000
+1499246403120	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499246404773	Marionette	INFO	Listening on port 54014
+1499246404874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499246405006	Marionette	DEBUG	loaded listener.js
+1499246405033	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-05 14:50:05.068 plugin-container[21194:208431] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-05 14:50:05.069 plugin-container[21194:208431] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499246407068	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499246407069	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake-stage.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499246413595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246413599	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246413640	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246414428	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246414429	Marionette	DEBUG	Received DOM event "unload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499246424758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499246424764	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499246430667	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246441086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246442479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246442961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246443259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246453835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246464225	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246470085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246473085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246473807	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246474594	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246476502	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246477672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246488060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246503762	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246514160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246515410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246515694	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246516021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246526381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246536705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246542289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246545230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246546822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246547100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246548678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246549758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499246560153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1499249705482	geckodriver	INFO	Listening on 127.0.0.1:64745
+1499249706496	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499249708132	Marionette	INFO	Listening on port 64758
+1499249708183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499249708373	Marionette	DEBUG	loaded listener.js
+1499249708401	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-05 15:45:08.436 plugin-container[26395:261065] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-05 15:45:08.437 plugin-container[26395:261065] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1499249710028	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1499249710029	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://datalake-stage.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499249716435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499249716440	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499249716463	Marionette	DEBUG	Received DOM event "beforeunload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499249717255	Marionette	DEBUG	Received DOM event "pagehide" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499249717255	Marionette	DEBUG	Received DOM event "unload" for "https://datalake-stage.smartsense.hortonworks.com/viewer/#/welcome"
+1499249727059	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499249727064	Marionette	DEBUG	Received DOM event "pageshow" for "https://datalake-stage.smartsense.hortonworks.com/smartsearch/"
+1499249732956	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499255973001	Marionette	DEBUG	loaded listener.js
+1499255979631	Marionette	DEBUG	loaded listener.js
+1499256105355	Marionette	DEBUG	loaded listener.js
+1499256733233	Marionette	DEBUG	loaded listener.js
+1499256737743	Marionette	DEBUG	loaded listener.js
+1499256747733	Marionette	DEBUG	loaded listener.js
+1499256774884	Marionette	DEBUG	loaded listener.js
+1499256778312	Marionette	DEBUG	loaded listener.js
+1499257020870	Marionette	DEBUG	loaded listener.js
+1499257027655	Marionette	DEBUG	loaded listener.js
+1499257118523	Marionette	DEBUG	loaded listener.js
+1499318121886	Marionette	DEBUG	loaded listener.js
+1499318128262	Marionette	DEBUG	loaded listener.js
+1499318158350	Marionette	DEBUG	loaded listener.js
+1499325473986	Marionette	DEBUG	loaded listener.js
+1499325529972	Marionette	DEBUG	loaded listener.js
+1499325846479	Marionette	DEBUG	loaded listener.js
+1499325887085	Marionette	DEBUG	loaded listener.js
+1499326007333	Marionette	DEBUG	loaded listener.js
+1499326058820	Marionette	DEBUG	loaded listener.js
+1499326151375	Marionette	DEBUG	loaded listener.js
+1499326164452	Marionette	DEBUG	loaded listener.js
+1499327515699	Marionette	DEBUG	loaded listener.js
+1499337195793	Marionette	DEBUG	loaded listener.js
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499340051733	Marionette	DEBUG	loaded listener.js
+1499349334875	Marionette	DEBUG	loaded listener.js
+JavaScript warning: https://datalake-dev.smartsense.hortonworks.com/viewer/bower_components/jquery/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///modules/E10SUtils.jsm, line 103: TypeError: aURI is null
+1499400795975	Marionette	DEBUG	loaded listener.js
+1499400992794	Marionette	DEBUG	loaded listener.js
+1499401042331	Marionette	DEBUG	loaded listener.js
+1499401048005	Marionette	DEBUG	loaded listener.js
+JavaScript error: wyciwyg://10/http://www.imdb.com/title/tt2250912/, line 1: TypeError: parent.ad_utils.ad_table.injected_navstrip is undefined
+JavaScript error: wyciwyg://11/http://www.imdb.com/title/tt2250912/, line 1: TypeError: parent.ad_utils.ad_table.injected_billboard is undefined
+JavaScript error: wyciwyg://12/http://www.imdb.com/title/tt2250912/, line 1: TypeError: parent.ad_utils.ad_table.navboard is undefined
+1499401143463	Marionette	DEBUG	loaded listener.js
+1499401450578	Marionette	DEBUG	loaded listener.js
+1499401458154	Marionette	DEBUG	loaded listener.js
+1499401616621	Marionette	DEBUG	loaded listener.js
+1499401764317	Marionette	DEBUG	loaded listener.js
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2876: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2876: Error: WebGL warning: copyTexSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1499401832648	Marionette	DEBUG	loaded listener.js
+1499401844988	Marionette	DEBUG	loaded listener.js
+1499402179620	Marionette	DEBUG	loaded listener.js
+1499402186938	Marionette	DEBUG	loaded listener.js
+1499402284922	Marionette	DEBUG	loaded listener.js
+1499402302686	Marionette	DEBUG	loaded listener.js
+1499402337770	Marionette	DEBUG	loaded listener.js
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://tpc.googlesyndication.com/safeframe/1-0-9/html/container.html, line 92: SyntaxError: expected expression, got '}'
+1499402425765	Marionette	DEBUG	loaded listener.js
+JavaScript error: http://thelastofus.wikia.com/wiki/The_Last_of_Us_Part_II, line 9: ReferenceError: osdlfm is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: http://fast.truvid.com/scripts/v5.27/brplayer.js, line 17: ReferenceError: google is not defined
+JavaScript error: http://fast.truvid.com/scripts/v5.27/brplayer.js, line 17: ReferenceError: google is not defined
+JavaScript error: http://fast.truvid.com/scripts/v5.27/brplayer.js, line 17: ReferenceError: google is not defined
+JavaScript warning: https://sp.airnbreak.com/sas/ads/prod/minJS/v2vEngine.js?v=2017671025, line 1: unreachable code after return statement
+JavaScript warning: https://sp.piacy.com/sas/ads/prod/minJS/v2vEngine.js?v=2017671025, line 1: unreachable code after return statement
+1499402525091	Marionette	DEBUG	loaded listener.js
+JavaScript error: http://c.betrad.com/pub/tag.js, line 1: TypeError: i is null
+JavaScript error: http://ap.lijit.com/sync, line 2: SecurityError: Permission denied to access property "sovrn" on cross-origin object
+JavaScript error: http://ap.lijit.com/sync, line 2: SecurityError: Permission denied to access property "sovrn" on cross-origin object
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.in/maps/place/Maheshwari+Theatre/data=!4m2!3m1!1s0x0:0x809ed6c4ff430e00?sa=X&ved=0ahUKEwjZ4IH9p_bUAhUN02MKHTycDosQxAMIMDAA, line 2857: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript error: resource:///modules/E10SUtils.jsm, line 103: TypeError: aURI is null
+1499410841383	Marionette	DEBUG	loaded listener.js
+JavaScript warning: http://psd.bits-pilani.ac.in/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499410980252	Marionette	DEBUG	loaded listener.js
+1499417153902	Marionette	DEBUG	loaded listener.js
+1499424280613	Marionette	DEBUG	loaded listener.js
+1499424289851	Marionette	DEBUG	loaded listener.js
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499430777670	Marionette	DEBUG	loaded listener.js
+1499431333996	Marionette	DEBUG	loaded listener.js
+1499431366229	Marionette	DEBUG	loaded listener.js
+1499431427428	Marionette	DEBUG	loaded listener.js
+1499431439998	Marionette	DEBUG	loaded listener.js
+1499431466488	Marionette	DEBUG	loaded listener.js
+1499431726966	Marionette	DEBUG	loaded listener.js
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499588539384	Marionette	DEBUG	loaded listener.js
+2017-07-09 14:45:32.227 firefox-bin[26394:260988] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+1499603055171	Marionette	DEBUG	loaded listener.js
+JavaScript error: https://www.theguardian.com/notesandqueries/query/0,5753,-11151,00.html, line 12: ReferenceError: s is not defined
+JavaScript error: https://www.theguardian.com/notesandqueries/query/0,5753,-11151,00.html, line 31: ReferenceError: jQuery is not defined
+JavaScript error: https://www.theguardian.com/external/RS/DartCookie/0,,,00.js, line 48: ReferenceError: rsinetsegs is not defined
+1499603256261	Marionette	DEBUG	loaded listener.js
+JavaScript error: https://schools.aglasem.com/1200, line 154: TypeError: document.body is null
+JavaScript error: https://azure-assets-prod.vicomi.com/feelback/latest/scripts/b353950d.vendor.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1499603338752	Marionette	DEBUG	loaded listener.js
+1499603386436	Marionette	DEBUG	loaded listener.js
+JavaScript error: https://schools.aglasem.com/59511, line 153: TypeError: document.body is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499605099511	Marionette	DEBUG	loaded listener.js
+JavaScript error: https://azure-assets-prod.vicomi.com/feelback/latest/scripts/b353950d.vendor.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://azure-assets-prod.vicomi.com/feelback/latest/scripts/b353950d.vendor.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://schools.aglasem.com/59511, line 153: TypeError: document.body is null
+JavaScript warning: https://s0.2mdn.net/ads/studio/videoteaser/0/avc_codec.js, line 0: Successfully compiled asm.js code (total compilation time 42ms; stored in cache)
+JavaScript warning: https://s0.2mdn.net/ads/studio/videoteaser/0/video_teaser_lib.js, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+1499608207269	Marionette	DEBUG	loaded listener.js

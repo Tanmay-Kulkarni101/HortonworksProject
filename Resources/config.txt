@@ -1,0 +1,9 @@
+text
+5
+,
+;
+querystring , string
+knowledge base , integer
+kb_points ,integer
+cases , integer
+case_points ,integer
